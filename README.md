@@ -1,16 +1,19 @@
 # lecture_4
 
-A new Flutter project.
+Lecture#4 of the Flutter GDSC Summer Camp 2024.
 
-## Getting Started
+## Topics Covered
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+* Dart Null safety
+* Importing packages from pub.dev
+* Importing fonts
+* Implicit Animations
+* TweenAnimationBuilder
+* TextFields
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Links
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+- [Saad Bin Khalid](https://saadbinkhalid.com)
