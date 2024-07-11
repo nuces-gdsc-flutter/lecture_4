@@ -14,6 +14,9 @@ Lecture#4 of the Flutter GDSC Summer Camp 2024.
 
 ## Links
 
+- [Video Recording](https://www.youtube.com/watch?v=6oKeuY30fjw)
+
+
 ## Author
 
 - [Saad Bin Khalid](https://saadbinkhalid.com)
